@@ -1,5 +1,8 @@
-# CREDITS TO xx347x
+# Discord-VR
 
-for providing the vr status, in:
+Original project:
+https://github.com/xx347x/Discord-VR
 
-    https://github.com/xx347x/Discord-vr
+Copyright (c) xx347x
+
+Licensed under the MIT License.
