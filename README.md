@@ -61,6 +61,7 @@ git clone https://github.com/unsodu/aDiscordBot.git
 cd aDiscordBot
 ```
 then:
+
     pip install -r requirements.txt
 
 or just copy the contents of the text and install.
@@ -69,18 +70,20 @@ or just copy the contents of the text and install.
 
 these are required for external proccessing i.e in your host server, such as your pc.
 
+cmd/powershell:
 ```cmd/PowerShell
 winget install --id ImageMagick.ImageMagick --source winget
 ```
 
+Debian:
 ```debian
 sudo apt install imagemagick
 ```
-
+arch:
 ```arch
 sudo pacman -S imagemagick
 ```
-
+termux:
 ```Termux
 pkg install imagemagick
 ```
