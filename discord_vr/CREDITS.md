@@ -2,4 +2,4 @@
 
 for providing the vr status, in:
 
-    https://github.com/xx347x/Discord-Desktop
+    https://github.com/xx347x/Discord-vr
